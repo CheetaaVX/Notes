@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portswigger/Path Traversal.md",
+                "file": "Notes/Portswigger/Path Traversal.md",
                 "mode": "source",
                 "source": false
               },
@@ -177,12 +177,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b579667c4b92ca0d",
+  "active": "c491fa3d05914c07",
   "lastOpenFiles": [
+    "Portswigger/Path Traversal.md",
+    "Notes/create a link.md",
+    "Notes/Portswigger/Path Traversal.md",
+    "Notes/Portswigger",
     "Notes/test",
     "Notes/placeholder.txt",
     "Notes",
-    "Portswigger/Path Traversal.md",
     "Welcome.md",
     "Portswigger",
     "Untitled.md",
