@@ -177,8 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c491fa3d05914c07",
+  "active": "b579667c4b92ca0d",
   "lastOpenFiles": [
+    "Notes/test",
+    "Notes/placeholder.txt",
+    "Notes",
     "Portswigger/Path Traversal.md",
     "Welcome.md",
     "Portswigger",
