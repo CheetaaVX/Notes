@@ -1,3 +1,86 @@
+
+
+
+
+# Basic Commands 
+
+###  Pull Changes (Download from GitHub to Local)
+
+```bash
+git pull origin main
+```
+
+- `origin`: the name of the remote repository (default is usually `origin`)
+    
+- `main`: the name of the branch (could also be `master` or any other)
+    
+
+ This fetches and merges changes from the remote repo to your current local branch.
+
+---
+
+###  Push Changes (Upload from Local to GitHub)
+
+1. **Stage changes**:
+    
+    ```bash
+    git add .
+    ```
+    
+    Or add specific files:
+    
+    ```bash
+    git add filename.txt
+    ```
+    
+2. **Commit changes**:
+    
+    ```bash
+    git commit -m "Your commit message"
+    ```
+    
+3. **Push to GitHub**:
+    
+    ```bash
+    git push origin main
+    ```
+    
+
+---
+
+### Common Additional Commands
+
+- **Clone a repository**:
+    
+    ```bash
+    git clone https://github.com/username/repo.git
+    ```
+    
+- **Check remote**:
+    
+    ```bash
+    git remote -v
+    ```
+    
+- **Change branch**:
+    
+    ```bash
+    git checkout branch-name
+    ```
+    
+- **Create and push a new branch**:
+    
+    ```bash
+    git checkout -b new-branch
+    git push origin new-branch
+    ```
+    
+
+---
+
+
+# Advanced commands 
+
 ## 1. Getting Started with Git
 
 ### `git init`
